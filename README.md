@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Kevin Campo 👋
 
-<!--
-**alejandrolesama/alejandrolesama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas y desarrollador junior en formación, con interés en el desarrollo web, bases de datos y automatización de procesos usando Python.
 
-Here are some ideas to get you started:
+Actualmente estoy construyendo proyectos prácticos con Django, MySQL, SQLite, HTML, CSS y JavaScript, enfocados en soluciones reales para negocios, gestión de información y comercio electrónico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso
+
+- Python
+- Django
+- MySQL
+- SQLite
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Visual Studio Code
+
+## 🧠 Áreas de interés
+
+- Desarrollo web backend
+- Bases de datos
+- Automatización de procesos
+- Aplicaciones empresariales
+- E-commerce
+
+## 📫 Contacto
+
+- LinkedIn: próximamente
+- Portafolio web: próximamente
+- Email: campolesama@icloud.com
